@@ -24,7 +24,7 @@ https://cafe.daum.net/jangsoowang/b0EI/24552?svc=cafeapi
 <br>
 아이언 -> 브론즈 -> 실버 -> 골드 -> 플래티넘 -> 에메랄드 -> 다이아 -> 마스터 -> 그랜드마스터 -> 챌린저
 
-![라인](https://github.com/Kimseongchan1224/LOL/assets/79899868/6eb1d8bc-dd0c-46c7-98e4-6622002e5913)
+![LOL](https://github.com/Kimseongchan1224/LOL/assets/79899868/20c621c1-2e03-42e1-9a2c-a6eea1c1371b)
 
 
 
