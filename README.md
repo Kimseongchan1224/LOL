@@ -42,17 +42,24 @@ https://cafe.daum.net/jangsoowang/b0EI/24552?svc=cafeapi
 
 | 항목           | 데이터 속성 |
 |--------------|--------|
-| 플레이어에 대한 데이터 | ???    |
-| 팀에 대한 데이터    | ???    |
-|라인전 전후에대한 데이터 |???|
+| 플레이어에 대한 데이터 | kda, cs, kills, deaths, assists ...|
+| 팀에 대한 데이터    | dragon, baron, goldearned, goldspent ...|
+| 라인전 전후에대한 데이터 | turretkills, visionscore, visionwardsbuy|
 
 여기서 중요하게 고려되는 항목들은 다음과 같다. (10개 이상)
 
 | 데이터 속성 | 데이터의 의미     | 중요한 이유 |
 |-------|-------------|--------|
-| KDA   | Kill/Death/Assist의 비율 |
-| 팀에 대한 데이터 | ???         |
-| 라인전 전후에대한 데이터 | ???         |
+| KDA   | Kill/Death/Assist의 비율 | 
+| kills | 킬 횟수 |
+| dpm | 챔피언이 가한 평균 피해량/분 |
+| dealttaken | 챔피언이 받은 피해량 |
+| minions | 미니언 처치 횟수 |
+| diffdpm | 챔피언이 가한 평균 피해량 차이 |
+| diffgold | 얻은 골드량 차이 |
+| goldearned100 | 팀별 총 획득 골드 |
+| tower100 | 팀별 총 타워 제거 수 |
+| tier | 티어 |
 
 ## 2.3 데이터 전처리
 20만 건의 경기 데이터는 수준 별로 편차가 어느정도 존재할 것으로 예상된다. 따라서 일정 수준 이상의 데이터로 지표의 상관성을 통해 승패예측 모델을 만드는 것이 합리적일 것이다.
