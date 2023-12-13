@@ -17,8 +17,7 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 # 2. 데이터
 ## 2.1 데이터 소스
 이번 프로젝트에 활용할 데이터는 온라인 게임 코칭 전문기업인 더매치랩(The Match LAB)에서 가공한 LOL 게임 데이터를 바탕으로 한다. 데이터는 2023년 8월 25일, 9월 15일, 9월 17일 각각 하루 동안 수집된 LOL 경기에 대한 세부 항목들로 구성되어 있다.
-https://m.thisisgame.com/webzine/news/nboard/4/?n=171067
-https://cafe.daum.net/jangsoowang/b0EI/24552?svc=cafeapi
+
 ## 2.2 탐색적 데이터 분석
 ![티어표1](https://github.com/Kimseongchan1224/LOL/assets/79899868/614fae6d-1cc1-4967-aa03-38e1593666cd)
 <br>
